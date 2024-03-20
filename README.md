@@ -1,2 +1,2 @@
 # CUSSpage
-Contact Us Page foe NFPA Website
+Contact Us Page for NFPA Website
