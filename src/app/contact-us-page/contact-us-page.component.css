@@ -1,0 +1,4 @@
+.img-block img {
+    width: 100vw; /* Set the width of the image to 100% of the viewport width */
+    height: auto; /* Maintain aspect ratio */
+}
